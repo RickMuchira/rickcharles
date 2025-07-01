@@ -23,7 +23,7 @@ const TiltBadge: React.FC<TiltBadgeProps> = ({
   dropDelay = 0.1,
 }) => {
   const containerRef = useRef<HTMLDivElement>(null);
-  const animationRef = useRef<number>();
+  const animationRef = useRef<number | null>(null);
   const letters = text.split("");
 
   const [isHovered, setIsHovered] = useState(false);
