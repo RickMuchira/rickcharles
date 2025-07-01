@@ -138,7 +138,7 @@ export default function MyCVPage() {
           </a>
           
           <a 
-            href="mailto:rickcharlesm@gmail.com?subject=Let's%20Work%20Together%20-%20Project%20Collaboration&body=Hi%20Rick%2C%0A%0AI%20came%20across%20your%20CV%20and%20I'm%20impressed%20with%20your%20work%20in%20full-stack%20development%20and%20AI%20solutions.%20I'd%20love%20to%20discuss%20a%20potential%20collaboration%20opportunity.%0A%0AProject%2FOpportunity%3A%20%5BPlease%20describe%20your%20project%20or%20opportunity%5D%0A%0ATech%20Stack%2FRequirements%3A%20%5BPlease%20mention%20technologies%20or%20specific%20requirements%5D%0A%0ATimeline%3A%20%5BExpected%20timeline%5D%0A%0ABudget%2FCompensation%3A%20%5BIf%20applicable%5D%0A%0ALooking%20forward%20to%20hearing%20from%20you!%0A%0ABest%20regards%2C%0A%5BYour%20Name%5D"
+            href="mailto:rickcharlesm@gmail.com?subject=Let&apos;s%20Work%20Together%20-%20Project%20Collaboration&body=Hi%20Rick%2C%0A%0AI%20came%20across%20your%20CV%20and%20I&apos;m%20impressed%20with%20your%20work%20in%20full-stack%20development%20and%20AI%20solutions.%20I&apos;d%20love%20to%20discuss%20a%20potential%20collaboration%20opportunity.%0A%0AProject%2FOpportunity%3A%20%5BPlease%20describe%20your%20project%20or%20opportunity%5D%0A%0ATech%20Stack%2FRequirements%3A%20%5BPlease%20mention%20technologies%20or%20specific%20requirements%5D%0A%0ATimeline%3A%20%5BExpected%20timeline%5D%0A%0ABudget%2FCompensation%3A%20%5BIf%20applicable%5D%0A%0ALooking%20forward%20to%20hearing%20from%20you!%0A%0ABest%20regards%2C%0A%5BYour%20Name%5D"
             className="flex items-center gap-2 bg-red-100 hover:bg-red-200 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-md cursor-pointer group"
           >
             <svg className="w-5 h-5 text-red-600 group-hover:animate-bounce" viewBox="0 0 24 24" fill="currentColor">
@@ -354,7 +354,7 @@ export default function MyCVPage() {
         <div>
           <h3 className="font-semibold text-lg mb-2">Ready to Build Something Amazing?</h3>
           <p className="text-gray-700 mb-6">
-            Let's discuss how I can contribute to your team's success with innovative, scalable solutions.
+            Let&apos;s discuss how I can contribute to your team&apos;s success with innovative, scalable solutions.
           </p>
         </div>
       </section>
